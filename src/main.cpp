@@ -1,5 +1,4 @@
 #include "common.h"
-#include "water.h"
 #include "renderer.h"
 
 int   winW = 800, winH = 600;
